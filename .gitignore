@@ -1,0 +1,15 @@
+# Игнорировать конкретные папки
+1_10_External_Vars/
+1_5_Input_Output/
+1_6_Arrays/
+1_7_Functions/
+1_9_Character_Arrays/
+New Folder/
+
+# Игнорировать конкретные файлы
+**/the_c_programming_language_2.pdf
+**/hello
+**/fahren_celsius
+**/celsius_fahren
+**/fahren_celsius_for
+**/fahren_celsius_reversed
